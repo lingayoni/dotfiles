@@ -1,0 +1,15 @@
+2020/04/10-21:43:53.964 16d5 Reusing MANIFEST /home/trudy/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/04/10-21:43:53.964 16d5 Recovering log #4
+2020/04/10-21:43:54.002 16d5 Reusing old log /home/trudy/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2020/04/10-21:43:54.159 177f Level-0 table #8: started
+2020/04/10-21:43:54.188 177f Level-0 table #8: 1412350 bytes OK
+2020/04/10-21:43:54.191 177f Delete type=0 #4
+2020/04/10-21:43:57.279 177f Compacting 1@1 + 1@2 files
+2020/04/10-21:43:57.329 177f Generated table #9@1: 7993 keys, 1578037 bytes
+2020/04/10-21:43:57.329 177f Compacted 1@1 + 1@2 files => 1578037 bytes
+2020/04/10-21:43:57.332 177f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/10-21:43:57.332 177f Delete type=2 #5
+2020/04/10-21:43:57.332 177f Delete type=2 #8
+2020/04/10-23:43:58.007 177f Level-0 table #11: started
+2020/04/10-23:43:58.032 177f Level-0 table #11: 1586025 bytes OK
+2020/04/10-23:43:58.036 177f Delete type=0 #7

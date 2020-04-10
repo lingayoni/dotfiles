@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "constants.js", "util.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "onboarding.css" ],
+      "js": [ "inboxsdk.js", "constants.js", "sha1.js", "util.js", "content.js" ],
+      "matches": [ "https://mail.google.com/*", "https://inbox.google.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "isinstalled.js" ],
+      "matches": [ "https://www.dropbox.com/gmail_integration" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/app_icon128.png",
+      "16": "images/app_icon16.png",
+      "48": "images/app_icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhmQZbPTVh9QjjNXgodb3rtOpqHpZBX8dXvdUHTbQEdu127nu5oZHi4qek32tA5T7e0XsV/zCTUYLhWojtHdU2Lrqupn4lOXxo/zUVAIL6q+YgI1tDPfTnUCjAQNVHadKe1xxzlOjcGTnJjsqSXygIoavipNmbHFmHXcSJHUXV52JSmd1MqN1m+GnoXzmFt80xBcQZbPimy6uIhXrja8i2LjfFQab5JujggHuD4TnOUtFRJZ5QVWLNw0TqgmWR4gQNMOXIgoqa3ArVyTjPi59QtE9nh8Ca6AqkujEWP/31T6aIPuqjVl4eD3e+LMsbXOdp4z4FINB2JZaXUmrgtukjQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "https://mail.google.com/*", "https://inbox.google.com/*", "storage", "tabs" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.10",
+   "web_accessible_resources": [ "images/logo.png", "images/icon16.png", "images/icon48.png", "images/icon128.png", "images/white_icon48.png", "images/checkmark.png", "images/x.png", "blank.html" ]
+}

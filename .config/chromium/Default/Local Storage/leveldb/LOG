@@ -1,0 +1,11 @@
+2020/04/11-00:36:09.124 13d5 Reusing MANIFEST /home/trudy/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/11-00:36:09.124 13d5 Recovering log #39
+2020/04/11-00:36:09.125 13d5 Level-0 table #43: started
+2020/04/11-00:36:09.137 13d5 Level-0 table #43: 61160 bytes OK
+2020/04/11-00:36:09.146 13d5 Delete type=0 #39
+2020/04/11-00:36:35.419 1686 Level-0 table #46: started
+2020/04/11-00:36:35.458 1686 Level-0 table #46: 60862 bytes OK
+2020/04/11-00:36:35.461 1686 Delete type=0 #44
+2020/04/11-00:39:03.060 1686 Level-0 table #48: started
+2020/04/11-00:39:03.069 1686 Level-0 table #48: 64259 bytes OK
+2020/04/11-00:39:03.074 1686 Delete type=0 #45

@@ -1,0 +1,8 @@
+2020/04/10-22:32:09.973 275d Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/10-22:32:09.973 275d Recovering log #4
+2020/04/10-22:32:09.973 275d Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/04/10-22:32:12.018 26b8 Level-0 table #8: started
+2020/04/10-22:32:12.018 26b8 Level-0 table #8: 0 bytes OK
+2020/04/10-22:32:12.024 26b8 Delete type=0 #4
+2020/04/10-22:32:12.024 26b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/10-22:32:12.024 26b8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
