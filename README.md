@@ -7,6 +7,8 @@
 I started using Linux in Arp of 2020 and have been enjoying the amount of flexibilty the platform offers. My main distro of choice is Arch-Linux, which I run on both my laptop and my tower.   
 </p>
 
+
+
 # General Information
 
 Here's a basic rundown of most of the software I use in my setup:
