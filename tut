@@ -1,0 +1,4 @@
+
+
+pac gvfs : auto mount
+pac alsa-utils alsa-plugins : Audio
