@@ -1,0 +1,8 @@
+2020/04/11-18:15:41.376 8c5b Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-18:15:41.377 8c5b Recovering log #7
+2020/04/11-18:15:41.377 8c5b Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2020/04/11-18:21:08.577 b535 Level-0 table #12: started
+2020/04/11-18:21:08.577 b535 Level-0 table #12: 0 bytes OK
+2020/04/11-18:21:08.585 b535 Delete type=0 #7
+2020/04/11-18:21:08.585 b535 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/11-18:21:08.585 b535 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

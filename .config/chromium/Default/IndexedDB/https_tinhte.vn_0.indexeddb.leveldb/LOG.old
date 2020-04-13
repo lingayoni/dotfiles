@@ -1,3 +1,7 @@
-2020/04/10-23:58:43.597 316 Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/10-23:58:43.597 316 Recovering log #3
-2020/04/10-23:58:43.598 316 Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/000003.log 
+2020/04/11-00:11:48.274 27c Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-00:11:48.274 27c Recovering log #3
+2020/04/11-00:11:48.274 27c Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/000003.log 
+2020/04/11-00:12:15.282 54e Level-0 table #5: started
+2020/04/11-00:12:15.289 54e Level-0 table #5: 4447 bytes OK
+2020/04/11-00:12:15.293 54e Delete type=0 #3
+2020/04/11-00:12:15.293 54e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

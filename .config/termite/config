@@ -1,88 +1,70 @@
 [options]
-#allow_bold = true
-#audible_bell = false
-#bold_is_bright = true
-#cell_height_scale = 1.0
-#cell_width_scale = 1.0
-#clickable_url = true
-#dynamic_title = true
+allow_bold = true
+audible_bell = false
+browser = xdg-open
+clickable_url = true
+cursor_blink = system
+cursor_shape = block
+dynamic_title = true
+filter_unmatched_urls = true
 font = Monospace 12
-#fullscreen = true
-#icon_name = terminal
-#mouse_autohide = false
-#scroll_on_output = false
-#scroll_on_keystroke = true
-# Length of the scrollback buffer, 0 disabled the scrollback buffer
-# and setting it to a negative value means "infinite scrollback"
-scrollback_lines = 10000
-#search_wrap = true
-#urgent_on_bell = true
-#hyperlinks = false
+geometry = 480x280
+icon_name = terminal
+modify_other_keys = false
+mouse_autohide = false
+scroll_on_output = false
+scroll_on_keystroke = true
+scrollback_lines = 15000
+size_hints = false
+search_wrap = true
+urgent_on_bell = true
+highlight = #30343e
 
-# $BROWSER is used by default if set, with xdg-open as a fallback
-browser = Chromium
-
-# "system", "on" or "off"
-#cursor_blink = system
-
-# "block", "underline" or "ibeam"
-cursor_shape = underline
-
-# Hide links that are no longer valid in url select overlay mode
-#filter_unmatched_urls = true
-
-# Emit escape sequences for extra modified keys
-#modify_other_keys = false
-
-# set size hints for the window
-#size_hints = false
-
-# "off", "left" or "right"
-#scrollbar = off
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# title      Nord Termite                                    +
+# project    nord-termite                                    +
+# version    0.2.0                                           +
+# repository https://github.com/arcticicestudio/nord-termite +
+# author     Arctic Ice Studio                               +
+# email      development@arcticicestudio.com                 +
+# copyright  Copyright (C) 2016                              +
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 [colors]
-# If both of these are unset, cursor falls back to the foreground color,
-# and cursor_foreground falls back to the background color.
-#cursor = #dcdccc
-#cursor_foreground = #dcdccc
+foreground = #d8dee8
+background = rgba (0, 0, 0, 0.3)
+foreground_bold = #d0d6e0
+cursor = #b48ead
+cursor_foreground = #d8dee8
 
-#foreground = #dcdccc
-#foreground_bold = #ffffff
-background = #000000
+# black
+color0  = #4b5262
+color8  = #434a5a
 
-# 20% background transparency (requires a compositor)
-#background = rgba(63, 63, 63, 0.8)
+# red
+color1  = #bf616a
+color9  = #b3555e
 
-# If unset, will reverse foreground and background
-highlight = #2f2f2f
+# green
+color2  = #a3be8c
+color10 = #93ae7c
 
-# Colors from color0 to color254 can be set
-color0 = #3f3f3f
-color1 = #705050
-color2 = #60b48a
-color3 = #dfaf8f
-color4 = #506070
-color5 = #dc8cc3
-color6 = #8cd0d3
-color7 = #dcdccc
-color8 = #709080
-color9 = #dca3a3
-color10 = #c3bf9f
-color11 = #f0dfaf
-color12 = #94bff3
-color13 = #ec93d3
-color14 = #93e0e3
-color15 = #ffffff
+# yellow
+color3  = #ebcb8b
+color11 = #dbbb7b
 
-[hints]
-#font = Monospace 12
-#foreground = #dcdccc
-#background = #3f3f3f
-#active_foreground = #e68080
-#active_background = #3f3f3f
-#padding = 2
-#border = #3f3f3f
-#border_width = 0.5
-#roundness = 2.0
+# blue
+color4  = #81a1c1
+color12 = #7191b1
 
-# vim: ft=dosini cms=#%s
+# magenta
+color5  = #b48ead
+color13 = #a6809f
+
+# cyan
+color6  = #88c0d0
+color14 = #76aebe
+
+# white
+color7  = #e5e9f0
+color15 = #d1d5dc

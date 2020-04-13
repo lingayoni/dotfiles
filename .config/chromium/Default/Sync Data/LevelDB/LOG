@@ -1,9 +1,6 @@
-2020/04/11-00:36:09.112 1432 Reusing MANIFEST /home/trudy/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/04/11-00:36:09.112 1432 Recovering log #16
-2020/04/11-00:36:09.114 1432 Reusing old log /home/trudy/.config/chromium/Default/Sync Data/LevelDB/000016.log 
-2020/04/11-00:36:19.477 15b0 Level-0 table #21: started
-2020/04/11-00:36:19.483 15b0 Level-0 table #21: 91482 bytes OK
-2020/04/11-00:36:19.487 15b0 Delete type=0 #16
-2020/04/11-00:57:47.109 15b0 Level-0 table #23: started
-2020/04/11-00:57:47.119 15b0 Level-0 table #23: 100608 bytes OK
-2020/04/11-00:57:47.125 15b0 Delete type=0 #20
+2020/04/12-03:55:07.398 8a60 Reusing MANIFEST /home/trudy/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/04/12-03:55:07.398 8a60 Recovering log #64
+2020/04/12-03:55:07.403 8a60 Reusing old log /home/trudy/.config/chromium/Default/Sync Data/LevelDB/000064.log 
+2020/04/12-03:55:10.246 8b69 Level-0 table #69: started
+2020/04/12-03:55:10.262 8b69 Level-0 table #69: 120617 bytes OK
+2020/04/12-03:55:10.269 8b69 Delete type=0 #64

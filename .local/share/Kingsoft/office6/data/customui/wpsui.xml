@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mso:customUI xmlns:mso="http://schemas.microsoft.com/office/2009/07/customui" ver="1.0.1">
+   <mso:ribbon>
+      <mso:qat default="1" menuOrder="1">
+         <mso:control idK="OpenFile"/>
+         <mso:control idK="SaveFile"/>
+         <mso:control idK="PrintToPDF"/>
+         <mso:control idK="Print"/>
+         <mso:control idK="PrintPreview"/>
+         <mso:control idK="Undo"/>
+         <mso:control idK="Redo"/>
+      </mso:qat>
+      <mso:tabs/>
+      <mso:contextualTabs/>
+   </mso:ribbon>
+</mso:customUI>

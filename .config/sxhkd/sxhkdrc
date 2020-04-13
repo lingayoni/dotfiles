@@ -9,6 +9,9 @@ super + Return
 # program launcher
 super + alt + @space
 	dmenu_run
+super + ship + {f,m}
+nemo
+
 
 super + d
 	rofi -show run -modi run -location 1 -width 100 \

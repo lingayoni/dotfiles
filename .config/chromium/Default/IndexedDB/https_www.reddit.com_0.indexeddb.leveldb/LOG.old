@@ -1,15 +1,3 @@
-2020/04/11-00:12:06.842 27c Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/11-00:12:06.843 27c Recovering log #11
-2020/04/11-00:12:06.843 27c Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000011.log 
-2020/04/11-00:12:40.072 54e Level-0 table #16: started
-2020/04/11-00:12:40.077 54e Level-0 table #16: 1511 bytes OK
-2020/04/11-00:12:40.082 54e Delete type=0 #11
-2020/04/11-00:12:40.082 54e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/04/11-00:12:40.082 54e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 86 : 1
-2020/04/11-00:12:40.082 54e Compacting 1@1 + 1@2 files
-2020/04/11-00:12:40.086 54e Generated table #17@1: 20 keys, 1253 bytes
-2020/04/11-00:12:40.086 54e Compacted 1@1 + 1@2 files => 1253 bytes
-2020/04/11-00:12:40.089 54e compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/04/11-00:12:40.089 54e Delete type=2 #13
-2020/04/11-00:12:40.089 54e Delete type=2 #16
-2020/04/11-00:12:40.090 54e Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 86 : 1 .. (end); will stop at (end)
+2020/04/12-03:29:08.430 5f6e Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/12-03:29:08.430 5f6e Recovering log #27
+2020/04/12-03:29:08.430 5f6e Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000027.log 

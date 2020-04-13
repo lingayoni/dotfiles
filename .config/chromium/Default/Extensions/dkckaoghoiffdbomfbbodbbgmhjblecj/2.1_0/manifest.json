@@ -1,0 +1,29 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png"
+   },
+   "commands": {
+      "toggle-monitoring": {
+         "description": "Toggle monitoring",
+         "suggested_key": {
+            "default": "Ctrl+Shift+E",
+            "mac": "Command+Shift+E"
+         }
+      }
+   },
+   "description": "XDM is an open source download manager",
+   "icons": {
+      "128": "icon-128.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj+U7o4V4Gf4ZCltQe6+dH1V29OVAkOXC1bv8Mwe0Fi9M51MG2qs77tB/b7hI9L41yBjCzsb0JxFANMbV4k+8xihFfX+/R6jQQoOGcBG02+temHx6HfqkjeU67Ns3P/YFWZl/CQCWE0j8WTr3lywhY9yqgChSTYndFdT+I2HAzlwt/RpdZMIrLRLFGavgB71N4Qi0Ib++k5jhBxv/EH2PHgwRVOC0rDsQkjhDeP6jgJav5OKJspcGQtE0MXNFwcZfvb9+R9PXzOV16z7lHJODWCr4KFTLfwe7JO6xPbXKiOlPzXdL9utBpZg70HPADH9F6oUMtKQV0E8UrqXGK28ZpwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0",
+   "name": "Xtreme Download Manager",
+   "permissions": [ "activeTab", "cookies", "contextMenus", "webRequest", "webRequestBlocking", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1"
+}

@@ -1,0 +1,8 @@
+2020/04/11-14:52:21.444 76a Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-14:52:21.445 76a Recovering log #4
+2020/04/11-14:52:21.445 76a Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000004.log 
+2020/04/11-14:52:24.185 a59 Level-0 table #8: started
+2020/04/11-14:52:24.185 a59 Level-0 table #8: 0 bytes OK
+2020/04/11-14:52:24.193 a59 Delete type=0 #4
+2020/04/11-14:52:24.193 a59 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/11-14:52:24.193 a59 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

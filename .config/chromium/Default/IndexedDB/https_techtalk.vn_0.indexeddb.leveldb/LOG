@@ -1,0 +1,5 @@
+2020/04/11-16:20:31.716 48e0 Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_techtalk.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-16:23:51.812 4e03 Level-0 table #5: started
+2020/04/11-16:23:51.820 4e03 Level-0 table #5: 5010 bytes OK
+2020/04/11-16:23:51.823 4e03 Delete type=0 #3
+2020/04/11-16:23:51.823 4e03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

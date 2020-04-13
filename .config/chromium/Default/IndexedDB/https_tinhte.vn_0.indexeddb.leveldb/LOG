@@ -1,7 +1,15 @@
-2020/04/11-00:11:48.274 27c Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/11-00:11:48.274 27c Recovering log #3
-2020/04/11-00:11:48.274 27c Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/000003.log 
-2020/04/11-00:12:15.282 54e Level-0 table #5: started
-2020/04/11-00:12:15.289 54e Level-0 table #5: 4447 bytes OK
-2020/04/11-00:12:15.293 54e Delete type=0 #3
-2020/04/11-00:12:15.293 54e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/11-02:25:23.635 4d2 Reusing MANIFEST /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-02:25:23.635 4d2 Recovering log #4
+2020/04/11-02:25:23.636 4d2 Reusing old log /home/trudy/.config/chromium/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/000004.log 
+2020/04/11-02:26:09.870 98b Level-0 table #8: started
+2020/04/11-02:26:09.874 98b Level-0 table #8: 1388 bytes OK
+2020/04/11-02:26:09.879 98b Delete type=0 #4
+2020/04/11-02:26:09.879 98b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/11-02:26:09.880 98b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x006\x000\x003\x002\x005\x000\x009\x009\x002\x009\x001\x00:\x00w\x00e\x00b\x00:\x00d\x00c\x001\x00c\x00f\x00c\x007\x007\x004\x00a\x00b\x008\x00b\x006\x005\x00a\x004\x00a\x00e\x005\x00b\x00e' @ 145 : 1
+2020/04/11-02:26:09.880 98b Compacting 1@1 + 1@2 files
+2020/04/11-02:26:09.885 98b Generated table #9@1: 19 keys, 1249 bytes
+2020/04/11-02:26:09.885 98b Compacted 1@1 + 1@2 files => 1249 bytes
+2020/04/11-02:26:09.889 98b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/11-02:26:09.890 98b Delete type=2 #5
+2020/04/11-02:26:09.890 98b Delete type=2 #8
+2020/04/11-02:26:09.890 98b Manual compaction at level-1 from '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x006\x000\x003\x002\x005\x000\x009\x009\x002\x009\x001\x00:\x00w\x00e\x00b\x00:\x00d\x00c\x001\x00c\x00f\x00c\x007\x007\x004\x00a\x00b\x008\x00b\x006\x005\x00a\x004\x00a\x00e\x005\x00b\x00e' @ 145 : 1 .. (end); will stop at (end)

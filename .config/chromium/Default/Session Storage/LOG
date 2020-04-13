@@ -1,18 +1,3 @@
-2020/04/11-00:36:19.499 13d5 Reusing MANIFEST /home/trudy/.config/chromium/Default/Session Storage/MANIFEST-000001
-2020/04/11-00:36:19.499 13d5 Recovering log #10
-2020/04/11-00:36:19.500 13d5 Reusing old log /home/trudy/.config/chromium/Default/Session Storage/000010.log 
-2020/04/11-00:54:32.009 1686 Level-0 table #14: started
-2020/04/11-00:54:32.017 1686 Level-0 table #14: 18253 bytes OK
-2020/04/11-00:54:32.020 1686 Delete type=0 #10
-2020/04/11-01:48:21.680 1686 Level-0 table #16: started
-2020/04/11-01:48:21.687 1686 Level-0 table #16: 18160 bytes OK
-2020/04/11-01:48:21.690 1686 Delete type=0 #13
-2020/04/11-01:48:21.690 1686 Compacting 4@0 + 1@1 files
-2020/04/11-01:48:21.697 1686 Generated table #17@0: 181 keys, 20755 bytes
-2020/04/11-01:48:21.698 1686 Compacted 4@0 + 1@1 files => 20755 bytes
-2020/04/11-01:48:21.700 1686 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/04/11-01:48:21.700 1686 Delete type=2 #14
-2020/04/11-01:48:21.700 1686 Delete type=2 #7
-2020/04/11-01:48:21.700 1686 Delete type=2 #11
-2020/04/11-01:48:21.700 1686 Delete type=2 #9
-2020/04/11-01:48:21.701 1686 Delete type=2 #16
+2020/04/12-03:55:07.680 8a7a Reusing MANIFEST /home/trudy/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/04/12-03:55:07.680 8a7a Recovering log #49
+2020/04/12-03:55:07.680 8a7a Reusing old log /home/trudy/.config/chromium/Default/Session Storage/000049.log 
