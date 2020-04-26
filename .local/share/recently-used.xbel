@@ -3,507 +3,240 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/trudy/Downloads/zoom_x86_64.pkg.tar" added="2020-04-09T16:01:14Z" modified="2020-04-09T16:01:14Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-09T16:01:14Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Pictures/wallhaven.jpg" added="2020-04-10T14:44:22Z" modified="2020-04-11T04:35:25Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/Downloads/wallhaven.jpg" added="2020-04-25T15:37:13Z" modified="2020-04-25T15:37:13Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2020-04-10T14:44:22Z" count="1"/>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T15:35:14Z" count="2"/>
-          <bookmark:application name="inkscape" exec="&apos;inkscape %u&apos;" modified="2020-04-11T04:35:25Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-25T15:37:13Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/Iosevka%20Nerd%20Font%20Complete.ttf" added="2020-04-10T14:47:51Z" modified="2020-04-10T14:47:51Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/.config/openbox/autostart" added="2020-04-25T15:47:01Z" modified="2020-04-25T15:47:01Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T14:47:51Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T15:47:01Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/FantasqueSansMono-Regular.ttf" added="2020-04-10T14:51:28Z" modified="2020-04-10T14:51:28Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/.config/openbox/menu.xml" added="2020-04-25T15:48:38Z" modified="2020-04-25T15:48:38Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T14:51:28Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T15:48:38Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/MaterialIcons-Regular.ttf" added="2020-04-10T14:51:41Z" modified="2020-04-10T14:51:41Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/.config/openbox/rc.xml" added="2020-04-25T16:11:17Z" modified="2020-04-25T16:11:17Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T14:51:41Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T16:11:17Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/NotoColorEmoji.ttf" added="2020-04-10T15:09:36Z" modified="2020-04-10T15:09:36Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T15:09:36Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/NotoEmoji-Regular.ttf" added="2020-04-10T15:09:53Z" modified="2020-04-10T15:09:53Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T15:09:53Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Desktop/Screenshot.png" added="2020-04-10T19:40:19Z" modified="2020-04-10T19:40:19Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-10T19:40:19Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/screen.jpg" added="2020-04-11T04:23:50Z" modified="2020-04-11T20:29:03Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:applications>
-          <bookmark:application name="inkscape" exec="&apos;inkscape %u&apos;" modified="2020-04-11T04:26:12Z" count="3"/>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-11T04:26:55Z" count="2"/>
-          <bookmark:application name="nemo" exec="&apos;/usr/bin/chromium %U&apos;" modified="2020-04-11T20:29:03Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/Inconsolata.zip" added="2020-04-11T08:01:07Z" modified="2020-04-11T08:01:07Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-11T08:01:07Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Documents/github/dotfiles/Tut" added="2020-04-11T08:04:11Z" modified="2020-04-11T08:04:11Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2020-04-11T08:04:11Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/GNU-Unifont-Full.zip" added="2020-04-11T09:05:09Z" modified="2020-04-11T09:05:09Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-11T09:05:09Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Source_Code_Pro_Font.zip" added="2020-04-11T09:36:54Z" modified="2020-04-11T09:36:54Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-11T09:36:54Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Nerd%20Font%20Mono.ttf" added="2020-04-11T11:25:47Z" modified="2020-04-11T11:25:47Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-11T11:25:47Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/siji.ttf" added="2020-04-11T12:55:38Z" modified="2020-04-11T12:55:38Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T12:55:38Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/siji.ttf" added="2020-04-11T12:58:41Z" modified="2020-04-11T14:15:57Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:15:57Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/nerd-fonts-2.1.0.tar.gz" added="2020-04-11T14:23:17Z" modified="2020-04-11T14:23:17Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/Downloads/obmenu-1.0.tar.gz" added="2020-04-25T16:15:25Z" modified="2020-04-25T16:15:26Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-compressed-tar"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:23:17Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-25T16:15:26Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/NotoColorEmoji.ttf" added="2020-04-11T14:38:07Z" modified="2020-04-11T14:38:08Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:38:08Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/NotoEmoji-Regular.ttf" added="2020-04-11T14:39:21Z" modified="2020-04-11T14:39:22Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:39:22Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/source-code-pro-release.zip" added="2020-04-11T14:40:42Z" modified="2020-04-11T14:40:43Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:40:43Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf" added="2020-04-11T14:52:10Z" modified="2020-04-11T14:52:10Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:52:10Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-04-11T14:52:23Z" modified="2020-04-11T14:52:24Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:52:24Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf" added="2020-04-11T14:52:45Z" modified="2020-04-11T14:52:46Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:52:46Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Nerd%20Font%20Complete.ttf" added="2020-04-11T14:53:05Z" modified="2020-04-11T14:53:05Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:53:05Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf" added="2020-04-11T14:53:51Z" modified="2020-04-11T14:53:51Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:53:51Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-04-11T14:57:54Z" modified="2020-04-11T14:57:54Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:57:54Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Italic%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf" added="2020-04-11T14:58:12Z" modified="2020-04-11T14:58:12Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:58:12Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Bold%20Italic%20Nerd%20Font%20Complete.ttf" added="2020-04-11T14:58:28Z" modified="2020-04-11T14:58:28Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:58:28Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Italic%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf" added="2020-04-11T14:58:59Z" modified="2020-04-11T14:59:00Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:59:00Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Italic%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-04-11T14:59:11Z" modified="2020-04-11T14:59:11Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:59:11Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Italic%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf" added="2020-04-11T14:59:27Z" modified="2020-04-11T14:59:27Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:59:27Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Italic%20Nerd%20Font%20Complete.ttf" added="2020-04-11T14:59:37Z" modified="2020-04-11T14:59:37Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T14:59:37Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Regular%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf" added="2020-04-11T15:00:01Z" modified="2020-04-11T15:00:01Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T15:00:01Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Regular%20Nerd%20Font%20Complete%20Mono.ttf" added="2020-04-11T15:00:15Z" modified="2020-04-11T15:00:15Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T15:00:15Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Regular%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf" added="2020-04-11T15:00:26Z" modified="2020-04-11T15:00:27Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T15:00:27Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Hack%20Regular%20Nerd%20Font%20Complete.ttf" added="2020-04-11T15:00:40Z" modified="2020-04-11T15:00:41Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T15:00:41Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/NVIDIA-Linux-x86_64-390.132.run" added="2020-04-11T19:57:20Z" modified="2020-04-11T19:57:21Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///usr/bin/termite" added="2020-04-25T16:16:50Z" modified="2020-04-25T16:16:50Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T19:57:21Z" count="2"/>
+          <bookmark:application name="exo-helper-2" exec="&apos;exo-helper-2 %u&apos;" modified="2020-04-25T16:16:50Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/xdm-setup-7.2.10.tar.xz" added="2020-04-11T20:00:57Z" modified="2020-04-11T20:00:57Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///usr/lib/python3.8/site-packages/obxml.py" added="2020-04-25T16:26:33Z" modified="2020-04-25T16:26:33Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T20:00:57Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T16:26:33Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/dejavu-sans-mono.zip" added="2020-04-12T16:05:15Z" modified="2020-04-12T16:05:15Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-12T16:05:15Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Font%20Awesome%205%20Brands-Regular-400.otf" added="2020-04-12T16:34:00Z" modified="2020-04-12T16:34:00Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-12T16:34:00Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Font%20Awesome%205%20Free-Regular-400.otf" added="2020-04-12T16:34:15Z" modified="2020-04-12T16:34:15Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-12T16:34:15Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.local/share/fonts/Font%20Awesome%205%20Free-Solid-900.otf" added="2020-04-12T16:34:29Z" modified="2020-04-12T16:34:29Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-12T16:34:29Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Desktop/test.docx" added="2020-04-13T12:45:19Z" modified="2020-04-13T12:45:54Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/wps-office.docx"/>
-        <bookmark:applications>
-          <bookmark:application name="wps" exec="&apos;wps %u&apos;" modified="2020-04-13T12:45:19Z" count="1"/>
-          <bookmark:application name="nemo" exec="&apos;/usr/bin/wps %U&apos;" modified="2020-04-13T12:45:54Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Downloads/Compressed/sublime_text_3_build_3211_x64.tar.bz2" added="2020-04-13T12:55:20Z" modified="2020-04-13T13:05:37Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-bzip-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-13T13:05:37Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/.config/Kingsoft/Office.conf" added="2020-04-13T14:25:09Z" modified="2020-04-13T14:25:09Z" visited="1969-12-31T23:59:59Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;leafpad %f&apos;" modified="2020-04-13T14:25:09Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/trudy/Documents/github/dotfiles/backup.sh" added="2020-04-13T15:33:41Z" modified="2020-04-13T16:51:50Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/data/git/obmenu/PKGBUILD" added="2020-04-25T17:13:12Z" modified="2020-04-25T17:13:12Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;leafpad %f&apos;" modified="2020-04-13T16:51:50Z" count="9"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T17:13:12Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Documents/github/dotfiles/backuplist" added="2020-04-13T15:52:41Z" modified="2020-04-13T15:52:41Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/data/git/obmenu/.git/config" added="2020-04-25T17:14:41Z" modified="2020-04-25T17:14:41Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;leafpad %f&apos;" modified="2020-04-13T15:52:41Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T17:14:41Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Documents/github/dotfiles/copy.sh" added="2020-04-13T16:28:09Z" modified="2020-04-13T16:28:09Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/.bashrc" added="2020-04-25T17:29:30Z" modified="2020-04-25T17:29:30Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;leafpad %f&apos;" modified="2020-04-13T16:28:09Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T17:29:30Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Documents/github/dotfiles/listofbkfiles" added="2020-04-13T16:31:19Z" modified="2020-04-13T16:31:19Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/trudy/.config/conky/conky.conf" added="2020-04-25T18:28:22Z" modified="2020-04-25T18:28:22Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;leafpad %f&apos;" modified="2020-04-13T16:31:19Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T18:28:22Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/trudy/Documents/github/dotfiles/.config/bspwm/bspwmrc" added="2020-04-13T16:35:41Z" modified="2020-04-13T16:52:25Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///etc/fstab" added="2020-04-25T18:46:08Z" modified="2020-04-25T18:46:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T18:46:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.config/bspwm/bspwmrc" added="2020-04-25T19:05:50Z" modified="2020-04-25T19:05:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T19:05:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.config/sxhkd/sxhkdrc" added="2020-04-25T19:08:57Z" modified="2020-04-25T19:08:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T19:08:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.local/fonts/archfonts/fonts" added="2020-04-25T19:44:13Z" modified="2020-04-25T19:44:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T19:44:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.xinitrc" added="2020-04-25T20:11:28Z" modified="2020-04-25T20:11:28Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;leafpad %f&apos;" modified="2020-04-13T16:52:25Z" count="3"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T20:11:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.config/mpd/mpd.conf" added="2020-04-25T21:23:14Z" modified="2020-04-25T21:23:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T21:23:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.fehbg" added="2020-04-25T21:54:40Z" modified="2020-04-25T21:54:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T21:54:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/trudy/.config/polybar/config" added="2020-04-25T22:14:25Z" modified="2020-04-25T22:14:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-04-25T22:14:25Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

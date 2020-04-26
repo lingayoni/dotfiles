@@ -136,7 +136,7 @@ pkill xsettingsd
 xsettingsd &
 
 ## set the wallpaper
-feh --bg-max ~/Pictures/wallhaven.jpg &
+feh --bg-max ~/data/Pictures/wallhaven.jpg &
 
 ## load dunst
 pkill dunst

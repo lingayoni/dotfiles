@@ -1,0 +1,13 @@
+
+tint2 &
+
+## reload picom (compton)
+pkill picom
+picom -b &
+
+## set the wallpaper
+feh --bg-max ~/data/Pictures/wallhaven.jpg &
+
+## reload conky
+plikk conky
+conky &

@@ -1,5 +1,5 @@
-#parcellite &
-#stalonetray &
-xsetroot -cursor_name left_ptr
-sxhkd &
+#!/bin/sh
+
+#exec openbox-session
+
 exec bspwm
